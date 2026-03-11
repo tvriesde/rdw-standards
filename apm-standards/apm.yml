@@ -1,0 +1,8 @@
+name: apm-standards
+version: 1.0.0
+description: APM project for apm-standards
+author: Tyrone Vriesde
+dependencies:
+  apm: []
+  mcp: []
+scripts: {}
